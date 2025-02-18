@@ -1,5 +1,7 @@
 # Chatbot Zé Saúde
 
+![alt imagem do zé saúde](ze-saude-btn.png "chatbot Zé Saúde")
+
 Zé saúde é um chatbot assistente para auxiliar visitante do portal da SESAU RR contando com diversos recursos de mapeamento de páginas e informações relevantes da Sesau. 
 
 [Clique aqui para ser redirecionado ao Zé Saúde](https://saude.rr.gov.br)
